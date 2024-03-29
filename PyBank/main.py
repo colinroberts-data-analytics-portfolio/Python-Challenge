@@ -2,10 +2,10 @@ import csv
 
 
 # Set_input_/ output_files ----check_Readme_reference---------------------------------------
-csv_file = r"C:\Users\colin\Desktop\Python_Challenge\Python-Challenge\PyBank\Resources\budget_data.csv"
+csv_file = "Resources\budget_data.csv"
    
 
-output_text_file_path = r"C:\Users\colin\Desktop\Python_Challenge\Python-Challenge\PyBank\analysis\budget_outcome.txt"
+output_text_file_path = "analysis\budget_outcome.txt"
 
 # set_varibales_for_questions-----------check_Readme_reference---------------------------------------------
 total_number_of_months = 0
