@@ -2,7 +2,7 @@
 import csv
 
 # Set_input_/ output_files-----------check_Readme_reference---------------------------------------------
-csv_file = "Resources/election_data.csv"
+csv_file = "../Resources/election_data.csv"
 
 output_text_file_path = "analysis/voting_outcome.txt"
 
