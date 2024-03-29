@@ -5,7 +5,7 @@ import csv
 csv_file = "../Resources/budget_data.csv"
    
 
-output_text_file_path = "analysis/budget_outcome.txt"
+output_text_file_path = "../analysis/budget_outcome.txt"
 
 # set_varibales_for_questions-----------check_Readme_reference---------------------------------------------
 total_number_of_months = 0
